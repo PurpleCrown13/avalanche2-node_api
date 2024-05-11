@@ -56,7 +56,7 @@
 }
 @font-face {
   font-family: font-for-read-10;
-  src: url("/Wolgadeutsche.woff") format("woff");
+  src: url("/JetBrains.woff") format("woff");
 }
 @font-face {
   font-family: font-for-read-11;
@@ -68,7 +68,7 @@
 }
 @font-face {
   font-family: font-for-read-13;
-  src: url("/KyivRegion-Regular.woff") format("woff");
+  src: url("/AvenirNextCyr-Medium.woff") format("woff");
 }
 @font-face {
   font-family: font-for-read-14;

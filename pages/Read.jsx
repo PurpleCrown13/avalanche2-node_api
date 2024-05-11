@@ -434,7 +434,7 @@ function Read() {
                     value="font-for-read-10"
                     style={{ fontFamily: "font-for-read-10" }}
                   >
-                    Wolgadeutsche
+                    Jet Brains Mono
                   </option>
                   <option
                     value="font-for-read-11"
@@ -452,7 +452,7 @@ function Read() {
                     value="font-for-read-13"
                     style={{ fontFamily: "font-for-read-13" }}
                   >
-                    Kyiv Region
+                    Avenir Next
                   </option>
                   <option
                     value="font-for-read-14"
